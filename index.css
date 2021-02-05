@@ -1,0 +1,37 @@
+header{
+    width: 960px;
+    margin: 0 auto;
+    background: #1DCC8D;
+    height: 160px;
+    position: relative;
+  }
+  .a{ position:absolute; left: 250px; top: 50px;
+    
+  }
+  .b{ position:absolute; left: 450px; top: 50px;
+    
+  }
+  .c{ position:absolute; right: 250px; top: 50px;
+    
+  }
+  body{
+      background-color: white;
+  }
+  h1{
+      color:black;
+  }
+  h2{
+      color:black;
+  }
+  span{
+      color:black;
+  }
+  div{
+      color:black;
+  }
+  footer{
+    width: 960px;
+    margin: 0 auto;
+    background: #1DCC8D;
+    height: 100px;
+  }
